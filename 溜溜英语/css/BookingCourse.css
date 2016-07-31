@@ -14,7 +14,7 @@
 }
 
 .waitao{
-	border-bottom: 1px solid #CCC;
+	/*border-bottom: 1px solid #CCC;*/
 	padding: 5px;
 }
 
@@ -23,3 +23,12 @@
 	height: 300px;
 	margin: 10px 0 10px 0;
 }
+
+#teacheret{
+	overflow: auto;
+	height: 240px;
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+.
